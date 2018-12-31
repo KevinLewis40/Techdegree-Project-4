@@ -26,10 +26,10 @@ body{
   border-left: lightslategrey 5px;
 }
 
-::placehodler,
-  input{
-    color: lightslategray;
-  }
+::placeholder,
+input{
+  color: lightslategray;
+}
 
 .gallery{
   width: 100%;
