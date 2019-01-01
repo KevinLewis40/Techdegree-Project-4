@@ -26,11 +26,6 @@ body{
   border-left: lightslategrey 5px;
 }
 
-::placeholder,
-input{
-  color: lightslategray;
-}
-
 .gallery{
   width: 100%;
   list-style-image: none;
