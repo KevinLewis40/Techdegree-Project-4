@@ -2,6 +2,7 @@
 body{
   margin: 0;
   background-size: auto;
+  background-image: url(marble.jpg);
   font-family: 'Roboto',sans-serif;
 }
 
