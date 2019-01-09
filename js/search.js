@@ -14,5 +14,9 @@ function myFunction() {
     }
 }
 $(document).ready(function() {
-    $('.card').magnificPopup({type:'image'});
+    $('.card').magnificPopup({
+        type:'image',
+        gallery: {
+            enabled: true
+        }});
 });
