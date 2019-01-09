@@ -13,3 +13,6 @@ function myFunction() {
         }
     }
 }
+$(document).ready(function() {
+    $('.card').magnificPopup({type:'image'});
+});
