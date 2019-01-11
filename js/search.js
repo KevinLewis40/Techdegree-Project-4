@@ -16,7 +16,8 @@ function myFunction() {
 $(document).ready(function() {
     $('.card').magnificPopup({
         type:'image',
+        image: {titleSrc: "data-title"},
         gallery: {
-            enabled: true
+          enabled: true
         }});
 });
